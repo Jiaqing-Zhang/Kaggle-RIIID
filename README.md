@@ -6,6 +6,9 @@ Riiid! Answer Correctness Prediction, A Machine Learning Competition from Stanfo
 ## Goal:
 Predict students' performance on future interaction with time-series API.
 
+## Data:
+Processed 130M+ interactions from 780K+ participants.
+
 ## Method:
 * Exploratory Analysis
 * Feature Engineer: 
@@ -13,3 +16,7 @@ Predict students' performance on future interaction with time-series API.
     - lecture level: K-mean clustering, hierarchical clustering, social network, Bayesian IRT
     - and student level
 *  Predict time-series students' response correctness using XGBoost and logistic regression
+
+## Results:
+Achieved 78.3% accuracy in predicting outcome of a question attemp.
+

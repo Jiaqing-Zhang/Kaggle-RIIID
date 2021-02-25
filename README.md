@@ -1,5 +1,4 @@
-# Kaggle-RIIID
-** Python Code for Kaggle, RIIID! **
+# Kaggle, RIIID! : Python Code **
 * Exploratory Analysis
 * Feature Engineer: 
     - question level: K-mean clustering, hierarchical clustering, social network, Bayesian IRT
